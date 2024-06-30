@@ -1,0 +1,60 @@
+name: ring-retrofit-kit
+components:
+ - id: main
+   capabilities:
+   - id: contactSensor
+     version: 1
+   - id: battery
+     version: 1
+   categories:
+   - name: ContactSensor
+ - id: contact1
+   capabilities:
+   - id: contactSensor
+     version: 1
+   categories:
+   - name: ContactSensor
+ - id: contact2
+   capabilities:
+   - id: contactSensor
+     version: 1
+   categories:
+   - name: ContactSensor
+ - id: contact3
+   capabilities:
+   - id: contactSensor
+     version: 1
+   categories:
+   - name: ContactSensor
+ - id: contact4
+   capabilities:
+   - id: contactSensor
+     version: 1
+   categories:
+   - name: ContactSensor
+ - id: contact5
+   capabilities:
+   - id: contactSensor
+     version: 1
+   categories:
+   - name: ContactSensor
+ - id: contact6
+   capabilities:
+   - id: contactSensor
+     version: 1
+   categories:
+   - name: ContactSensor
+ - id: contact7
+   capabilities:
+   - id: contactSensor
+     version: 1
+   categories:
+   - name: ContactSensor
+ - id: contact8
+   capabilities:
+   - id: contactSensor
+     version: 1
+   categories:
+   - name: ContactSensor
+  
+  

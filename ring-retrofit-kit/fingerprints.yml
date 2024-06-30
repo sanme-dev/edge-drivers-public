@@ -1,0 +1,7 @@
+zwaveManufacturer:
+  - id: "0346/0B01/0101"
+    deviceLabel: Ring Retrofit Kit
+    manufacturerId: 0x0346
+    productType: 0x0B01
+    productId: 0x0101
+    deviceProfileName: ring-retrofit-kit

@@ -1,0 +1,5 @@
+name: 'Ring Retrofit Kit'
+packageKey: 'ring-retrofit-kit'
+permissions:
+  zwave: {}
+description: "Ring Retrofit Kit"
